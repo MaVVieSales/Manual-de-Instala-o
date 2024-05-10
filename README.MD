@@ -7,7 +7,7 @@
 
 ## 2º Passo - Verificação do Teclado.
 #### Selecione seu tipo de teclado e clique em _Selecionar_.
-![alt text](<Captura de tela 2024-05-10 095124.png>)
+![alt text](<Captura de tela 2024-05-10 095124-1.png>)
 
 ## 3º Passo - Instalação.
 #### Selecione se deseja ter uma versão "limpa" (sem arquivos anteriores) ou uma versão customizada e clique em _Next_. No atual exemplo, foi selecionado o _"Clean Install"_.
@@ -29,7 +29,7 @@
 ### 4º Passo - Carregamento e Reinicialização.
 ![alt text](<Captura de tela 2024-05-10 100824.png>)
 #### Aguarde o carregamento. Não desligue o computador.
-![alt text](tela17-1.png)
+![alt text](tela17.png)
 #### Insira a sua senha, caso houver uma password de encriptação.
 ![alt text](tela18.png)
 #### Selecione o usuário.
