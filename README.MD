@@ -7,7 +7,7 @@
 
 ## 2º Passo - Verificação do Teclado.
 #### Selecione seu tipo de teclado e clique em _Selecionar_.
-![alt text](<Captura de tela 2024-05-10 095124-1.png>)
+![alt text](<Captura de tela 2024-05-10 095124.png>)
 
 ## 3º Passo - Instalação.
 #### Selecione se deseja ter uma versão "limpa" (sem arquivos anteriores) ou uma versão customizada e clique em _Next_. No atual exemplo, foi selecionado o _"Clean Install"_.
@@ -39,7 +39,7 @@
 
 ### 5º Passo - Customizar.
 #### Aqui é o espaço de definições básicas do Layout. Selecione o que for de sua preferência e siga clicando em _Próximo_.
-![alt text](<Captura de tela 2024-05-10 102100.png>)
+![alt text](<Captura de tela 2024-05-10 102100-1.png>)
 ![alt text](<Captura de tela 2024-05-10 102417.png>)
 ![alt text](<Captura de tela 2024-05-10 102519.png>)
 
