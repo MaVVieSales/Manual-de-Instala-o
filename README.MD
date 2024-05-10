@@ -1,11 +1,37 @@
-# Meu Perfil
-### Estudo Desenvolvimento de Sistemas no Senai de Presidente Prudente.
-#### Curiosidades sobre mim:
-#####
-- _Ma Vie_, no Francês, significa "Minha Vida".
- - Gosto de ler, comer doces e assistir séries no meu tempo livre (quase nunca) <3
-- Geralmente, é possível me encontrar na biblioteca (onde tem ar condicionado), no shopping (onde tem sorvete e ar condicionado) ou no lugar mais alto do Senai (onde tem bastante vento).
-- Ultimamente, tenho estudado sobre o Abstracionismo.
+# Manual de Instalação: POP-OS
+## 1º Passo - Escolha do Idioma.
+#### Selecione o idioma de sua preferência e clique em _Select_.
+![alt text](<Captura de tela 2024-05-10 094924.png>)
 
-![alt text](https://3.bp.blogspot.com/_kB1pDXsEaE0/TRzcI5lyazI/AAAAAAAAF-E/F4uHSDWM224/s1600/red+tree+-+Mondrian.jpg)
-#### Árvore vermelha (1910), de Piet Mondrian.
+## 2º Passo - Verificação do Teclado.
+#### Selecione seu tipo de teclado e clique em _Selecionar_.
+![alt text](<Captura de tela 2024-05-10 095124.png>)
+
+## 3º Passo - Instalação.
+#### Selecione se deseja ter uma versão "limpa" (sem arquivos anteriores) ou uma versão customizada e clique em _Next_. No atual exemplo, foi selecionado o _"Clean Install"_.
+![alt text](<Captura de tela 2024-05-10 095253.png>)
+#### Selecione o arquivo de sua preferência e clique em _Apagar e Instalar_.
+![alt text](<Captura de tela 2024-05-10 095920.png>)
+
+- ### Criação do Perfil.
+#### Clique no robô menor para alterar sua foto de perfil.
+![alt text](<Captura de tela 2024-05-10 100103.png>)
+#### Clique no robô menor para alterar sua foto de perfil.
+![alt text](<Captura de tela 2024-05-10 100440.png>)
+#### Clique no robô menor para alterar sua foto de perfil.
+![alt text](<Captura de tela 2024-05-10 100227.png>)
+
+- ### Verificação do Teclado.
+#### Selecione seu tipo de teclado e clique em _Selecionar_.
+![alt text](<Captura de tela 2024-05-10 100824.png>)
+
+- ### Verificação do Teclado.
+#### Selecione seu tipo de teclado e clique em _Selecionar_.
+
+
+- ### Verificação do Teclado.
+#### Selecione seu tipo de teclado e clique em _Selecionar_.
+
+
+## 2º Passo - Verificação do Teclado.
+#### Selecione seu tipo de teclado e clique em _Selecionar_.
